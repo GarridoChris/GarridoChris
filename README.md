@@ -18,6 +18,7 @@
   - Express.js
   - Axios
   - PostgreSQL.
+  - npm
   
 - SoftSkills:
   - Metodologias ágeis. (Scrum and Kanban
@@ -48,6 +49,7 @@
   - Express.js
   - Axios
   - PostgreSQL.
+  - npm
   
 - SoftSkills:
   - Metodologias ágeis. (Scrum and Kanban
